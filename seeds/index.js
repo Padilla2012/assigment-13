@@ -24,9 +24,3 @@ const seedAll = async () => {
 };
 
 seedAll();
-
-
-
-
-
-
